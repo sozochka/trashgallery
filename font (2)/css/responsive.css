@@ -1,0 +1,211 @@
+@media screen and (max-width: 640px){
+    img.bg {
+      left: 50%;
+      margin-left: -320px;
+    }
+  }
+
+  @media  (max-width:768px) {
+    .hover-container> img{
+      height: 13vw;
+      width: 13vw;
+    }
+    .zagalovok{
+      display: flex;
+      height: 100%;
+      margin: 0 auto;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-family: Mutabor, sans-serif;
+      color: white;
+      font-size: calc(6vw + 12px);
+      text-shadow:
+        -5px -5px 0 #000,
+        0   -5px 0 #000,
+        5px -5px 0 #000,
+        5px  0   0 #000,
+        5px  5px 0 #000,
+        0    5px 0 #000,
+        -5px  5px 0 #000,
+        -5px  0   0 #000000;
+    }
+    
+        
+        .star1 > img{
+          height: 40vw;
+          width: 40vw;
+        }
+
+        .star3 > img{
+          height: 40vw;
+          width: 40vw;
+        }
+        .star2 > img{
+          height: 40vw;
+          width: 40vw;
+        }
+        
+        h3{
+          position: absolute;
+          font-family: 'Inter', sans-serif;
+          color: white;
+          font-size: calc( 2.3vw - 3px);
+          z-index: 1;
+        }
+        
+        .snow{
+          height: 89%;
+          position: absolute;
+          top: 125vw;
+          left: 42vw;
+          z-index: 2;
+          overflow: hidden;
+        }
+
+        @keyframes musor-moving {
+          0% {transform: translateX(0px)}
+          100% {transform: translateX(-26%)}
+        }
+        
+    }
+
+    @media  (max-width:414px) {
+      .hover-container > img{
+        height: 15vw;
+        width: 15vw;
+      }
+     
+      .zagalovok{
+        display: flex;
+        height: 100%;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-family: Mutabor, sans-serif;
+        color: white;
+        font-size: calc(5vw + 12px);
+        text-shadow:
+          -3px -3px 0 #000,
+          0   -3px 0 #000,
+          3px -3px 0 #000,
+          3px  0   0 #000,
+          3px  3px 0 #000,
+          0    3px 0 #000,
+          -3px  3px 0 #000,
+          -3px  0   0 #000000;
+      }
+      
+          
+      star1 > img{
+        height: 40vw;
+        width: 40vw;
+      }
+      body{
+        max-height: 812.32px 
+      }
+
+
+      .star2 > img{
+        height: 40vw;
+        width: 40vw;
+      }
+      .star3 > img{
+        height: 40vw;
+        width: 40vw;
+      }
+
+      
+      h3{
+        position: absolute;
+        font-family: 'Inter', sans-serif;
+        color: white;
+        font-size: calc( 2.9vw - 1px);
+        z-index: 1;
+      }
+      
+      .snow{
+        height: 39%;
+        position: absolute;
+        top: 125vw;
+        left: 42vw;
+        z-index: 2;
+        overflow: hidden;
+      }
+
+      @keyframes musor-moving {
+        0% {transform: translateX(0px)}
+        100% {transform: translateX(-26%)}
+      }
+      
+      }
+
+
+      @media  (max-width:768px) {
+        .hover-container> img{
+          height: 13vw;
+          width: 13vw;
+        }
+        .zagalovok{
+          display: flex;
+          height: 100%;
+          margin: 0 auto;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+          font-family: Mutabor, sans-serif;
+          color: white;
+          font-size: calc(6vw + 12px);
+          text-shadow:
+            -5px -5px 0 #000,
+            0   -5px 0 #000,
+            5px -5px 0 #000,
+            5px  0   0 #000,
+            5px  5px 0 #000,
+            0    5px 0 #000,
+            -5px  5px 0 #000,
+            -5px  0   0 #000000;
+        }
+        
+            
+            .star1 > img{
+              height: 40vw;
+              width: 40vw;
+            }
+    
+            .star3 > img{
+              height: 40vw;
+              width: 40vw;
+            }
+            .star2 > img{
+              height: 40vw;
+              width: 40vw;
+            }
+            
+            h3{
+              position: absolute;
+              font-family: 'Inter', sans-serif;
+              color: white;
+              font-size: calc( 2.3vw - 3px);
+              z-index: 1;
+            }
+            
+            .snow{
+              height: 89%;
+              position: absolute;
+              top: 125vw;
+              left: 42vw;
+              z-index: 2;
+              overflow: hidden;
+            }
+    
+            @keyframes musor-moving {
+              0% {transform: translateX(0px)}
+              100% {transform: translateX(-26%)}
+            }
+            
+        }
+
+
+ 
